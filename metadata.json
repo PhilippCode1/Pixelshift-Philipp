@@ -1,0 +1,5 @@
+{
+  "name": "ModulMate Architect Pro",
+  "description": "A high-fidelity, React-based 3D architectural configurator for modular homes. Features real-time 3D manipulation, constructive solid geometry logic for walls/windows, cost estimation, and a premium glassmorphism UI.",
+  "requestFramePermissions": []
+}
